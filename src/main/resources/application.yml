@@ -1,0 +1,7 @@
+app:
+  maps:
+    number: "88005553535"
+    inn: 50460
+    ogrn: 5565
+#@ConfigurationProperties
+
